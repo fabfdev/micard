@@ -1,4 +1,4 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
+![Simulator Screenshot - iPhone 15 Pro Max - 2024-06-10 at 06 43 11](https://github.com/fabfdev/micard/assets/38407446/998d1067-b6cc-46b0-bb59-19aef7753db2)
 
 # Mi Card
 
